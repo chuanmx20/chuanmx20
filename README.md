@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 </div>
 
 ## 📝<a href="https://chuanmx.cc/" target="_blank">Recent Blog</a>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
