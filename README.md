@@ -52,6 +52,6 @@ Here are some ideas to get you started:
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chuanmx20" />
 </div>
 
-## 📜<a href="htt[s://chuanmx.cc">Recent Blogs </a>
+## 📜<a href="https://chuanmx.cc" target="_blank">Recent Blogs </a>
 <!-- START_SECTION:blog -->
 <!-- END_SECTION:blog -->
