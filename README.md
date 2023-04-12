@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a title="github" target="_blank" href="https://github.com/chuanmx20"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAchuan-2&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
-  <img alt="Custom badge" src="https://img.shields.io/endpoint?color=%2300ffcc&label=chuanmx&logo=%E9%92%8F%E8%8C%97%E5%96%9C&logoColor=%2300ffcc&url=https%3A%2F%2Fwww.chuanmx.cc" />
+  <a title="blog" target="_blank" href="https://chuanmx.cc"></a>
 </p>
