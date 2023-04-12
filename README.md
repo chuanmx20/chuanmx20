@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chuanmx20" />
-</div>
-<div align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chuanmx20&bg_color=fdf2f8&color=5f5d5f&line=4c9e8a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+</div>
+    
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chuanmx20" />
 </div>
