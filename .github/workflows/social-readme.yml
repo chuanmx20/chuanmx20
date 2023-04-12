@@ -1,19 +1,19 @@
-name: Update events
-
+name: Latest blog post workflow
 on:
-  watch:
-    types: started
-  schedule:
-    - cron:  '0 0 * * *'
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
-  update-social:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Social Readme
-        uses: zylele/social-readme@master
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          blog_rss_link: https://chuanmx.cc/atom.xml
-          blog_limit: 5
-          douban_name: chuanmx20
-          douban_limit: 10
+          feed_list: "https://chuanmx.cc/atom.xml"
