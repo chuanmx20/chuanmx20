@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a title="h5game" target="_blank" href="https://h5game.chuanmx.cc"><img src="https://img.shields.io/badge/chuanmx-h5game-009966" /></a>
 </p>
 <HR>
-## 😋About me
+### 😋About me
 - Name: Chuan Mingxi
 - Nickname: cmx (cc)
 - Educational experience
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     - ![ETH Lotto](https://github.com/chuanmx20/vue_lottery)
     - ![😅emoji battle](https://play.google.com/store/apps/details?id=com.OttorGameStudio.SweatBattle)
     - ![Social!](https://4fun.chat)
-## 📈Statistics
+### 📈Statistics
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=chuanmx20" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuanmx20&layout=compact&langs_count=8" />
