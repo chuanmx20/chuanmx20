@@ -51,3 +51,7 @@ Here are some ideas to get you started:
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chuanmx20" />
 </div>
+
+## 📜Recent Blogs
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
