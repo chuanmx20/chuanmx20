@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 <a title="chat" target="_blank" href="https://chat.chuanmx.cc"><img src="https://img.shields.io/badge/chuanmx-ChatGPT-009999" /></a>
 <a title="h5game" target="_blank" href="https://h5game.chuanmx.cc"><img src="https://img.shields.io/badge/chuanmx-h5game-009966" /></a>
 </p>
+
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=chuanmx20" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuanmx&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
