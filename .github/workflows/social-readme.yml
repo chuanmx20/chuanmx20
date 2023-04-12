@@ -15,3 +15,5 @@ jobs:
         with:
           blog_rss_link: https://chuanmx.cc/atom.xml
           blog_limit: 5
+          douban_name: chuanmx20
+          douban_limit: 10
