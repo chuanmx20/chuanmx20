@@ -52,27 +52,6 @@ Here are some ideas to get you started:
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chuanmx20" />
 </div>
 
-## 📺Social
-
-<table>
-<tbody>
-   <tr>
-       <td  valign="top" width="50%">
-
-### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
-
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
-</td>
-       <td  valign="top" width="50%">
-
-### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
-
-<!-- START_SECTION:douban -->
-
-<!-- END_SECTION:douban -->
-</td>
-        </tr>
-</tbody>
-</table>
+## 📝<a href="https://chuanmx.cc/" target="_blank">Recent Blog</a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
