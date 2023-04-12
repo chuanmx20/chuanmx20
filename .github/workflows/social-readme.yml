@@ -1,17 +1,17 @@
-name: Social Readme
+name: Update events
 
 on:
+  watch:
+    types: started
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-  push:
-    branches:
-      - master
+    - cron:  '0 0 * * *'
 
 jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - name: Social Readme
+        uses: zylele/social-readme@master
         with:
           blog_rss_link: https://chuanmx.cc/atom.xml
+          blog_limit: 5
