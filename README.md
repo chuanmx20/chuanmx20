@@ -33,5 +33,5 @@ Here are some ideas to get you started:
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chuanmx20" />
 </div>
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=chuanmx20&theme=minimal" />
 </div>
