@@ -22,7 +22,20 @@ Here are some ideas to get you started:
 <a title="chat" target="_blank" href="https://chat.chuanmx.cc"><img src="https://img.shields.io/badge/chuanmx-ChatGPT-009999" /></a>
 <a title="h5game" target="_blank" href="https://h5game.chuanmx.cc"><img src="https://img.shields.io/badge/chuanmx-h5game-009966" /></a>
 </p>
-
+<HR>
+## 😋About me
+- Name: Chuan Mingxi
+- Nickname: cmx (cc)
+- Educational experience
+    - Undergraduate (2020.09 - 2024.06): Computer Science and Finance, Tsinghua Univ.
+- Project
+    - ![web demo of chat gpt](https://github.com/chuanmx20/web_gpt_frontend)
+    - ![web demo backend of chat gpt](https://github.com/chuanmx20/web_chatgpt_backend)
+    - ![code here(tiny macOS toolbar kit)](https://github.com/chuanmx20/Code-Here)
+    - ![ETH Lotto](https://github.com/chuanmx20/vue_lottery)
+    - ![😅emoji battle](https://play.google.com/store/apps/details?id=com.OttorGameStudio.SweatBattle)
+    - ![Social!](https://4fun.chat)
+## 📈Statistics
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=chuanmx20" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuanmx20&layout=compact&langs_count=8" />
