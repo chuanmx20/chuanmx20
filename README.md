@@ -54,4 +54,9 @@ Here are some ideas to get you started:
 
 ## 📝<a href="https://chuanmx.cc/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [Linux权限管理介绍](https://chuanmx.cc/2023/02/28/Tips/linux-permission-management/)
+- [macOS Wi-Fi系统工具](https://chuanmx.cc/2022/12/11/Tips/macOS-80211-util/)
+- [macOS EDA工具](https://chuanmx.cc/2022/11/18/Tips/macos-eda/)
+- [子网掩码的作用](https://chuanmx.cc/2022/11/11/ComputerNetwork/mask/)
+- [awk介绍及使用](https://chuanmx.cc/2022/11/06/Tips/awk/)
 <!-- BLOG-POST-LIST:END -->
