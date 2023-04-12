@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chuanmx20/chuanmx20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,8 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4500&pause=1000&color=E9F700&center=true&vCenter=true&repeat=false&width=435&lines=Hello+this+is+chuanmx+%3AD" alt="Typing SVG" /></a>  
 </a></center>
