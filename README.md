@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 - Project
     - [web demo of chat gpt](https://github.com/chuanmx20/web_gpt_frontend)
     - [web demo backend of chat gpt](https://github.com/chuanmx20/web_chatgpt_backend)
-    - [code here(tiny macOS toolbar kit)](https://github.com/chuanmx20/Code-Here)
+    - [code here(tiny macOS toolbar kit)](https://github.com/chuanmx20/CodeHere) and [serve here](https://github.com/chuanmx20/ServeHere)
     - [ETH Lotto](https://github.com/chuanmx20/vue_lottery)
     - [😅emoji battle](https://play.google.com/store/apps/details?id=com.OttorGameStudio.SweatBattle)
-    - [Social!](https://4fun.chat)
+    - [Social!](https://www.4fun.chat/)
 ## 📈Statistics
 <div align="center">
 <span>  </span>
