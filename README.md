@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chuanmx20&bg_color=fdf2f8&color=5f5d5f&line=4c9e8a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chuanmx20&bg_color=e3e3e3&color=342d33&line=76734c&point=5e5b50&area=true&hide_border=true" />
 </div>
     
 <div align="center">
