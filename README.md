@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     
 ## 😋About me
 - Name: Chuan Mingxi
-- Nickname: cmx (cc)
+- Nickname: chuanmx (cmx)
 - Educational experience
     - Undergraduate (2020.09 - 2024.06): Computer Science and Finance, Tsinghua Univ.
 - Project
