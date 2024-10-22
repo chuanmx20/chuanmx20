@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - Nickname: chuanmx (cmx)
 - Educational experience
     - Undergraduate (2020.09 - 2024.06): Computer Science and Finance, Tsinghua Univ.
+    - Doctoral student (2024.08 - x): INSC, Tsinghua Univ.
 - Project
     - [web demo of chat gpt](https://github.com/chuanmx20/web_gpt_frontend)
     - [web demo backend of chat gpt](https://github.com/chuanmx20/web_chatgpt_backend)
