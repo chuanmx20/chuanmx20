@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     - [😅emoji battle](https://play.google.com/store/apps/details?id=com.OttorGameStudio.SweatBattle)
     - [Social!](https://www.4fun.chat/)
  
-Find my blog at [here]('https://chuanmx.cc')
+Find my blog at [here](https://www.chuanmx.cc)
 ## 📈Statistics
 <div align="center">
 <span>  </span>
